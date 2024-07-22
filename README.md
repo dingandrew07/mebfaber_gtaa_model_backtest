@@ -19,3 +19,8 @@ The data used are included in seperate excel files and was collected from variou
 3. Run the main source codes on Jupyter Lab or Notebook
 4. Restart and run all kernels 
 
+## Extensions
+
+1. Consider external costs such as transaction costs and taxes
+2. Consider a portfolio with other assets besides the 5 used in Meb Faber's GTAA model
+3. 
