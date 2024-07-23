@@ -12,7 +12,7 @@ There are two main source code files, coded on python 3 and ran on Jupyter. The 
 
 The data used are included in seperate excel files and was collected from various sources including Bloomberg Terminal.
 
-## Installation instructions:
+## Installation instructions
 
 1. Download all the files
 2. Ensure pandas, numpy, and matplotlib are downloaded in the environment
