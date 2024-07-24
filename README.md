@@ -23,4 +23,5 @@ The data used are included in seperate excel files and was collected from variou
 
 1. Consider external costs such as transaction costs and taxes
 2. Consider a portfolio with other assets besides the 5 used in Meb Faber's GTAA model
-3. 
+3. Since the portfolio is updated at the final day of each month, backtest the model on mid-month data to account for any potential end-of-month biases
+4. Consider other performance analysis metrics such as volatility and sharpe calculation
